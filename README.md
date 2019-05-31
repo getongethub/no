@@ -1,5 +1,3 @@
-help
-<!Doctype html>
 <html>
     <style>
     body {
